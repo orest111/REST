@@ -1,0 +1,30 @@
+git init
+git status
+git remote -v
+git add .
+git pull origin master
+
+lkhlkjhj
+1.Створити директорію наприклад Giter9
+2.Через Broser завантажити Github.com та ввійти через Sign In логін orest111 та пароль orest@31428.
+3.Створити New repository одним з способів
+
+echo # test >> README.md
+git init
+git add README.md
+git add *.*
+git commit -m "first commit"
+git push -u origin master
+
+OR
+
+git remote add origin https://github.com/orest111/test.git
+git push -u origin master
+
+4.Перiодично запускати команду git commit -m "commit"
+
+
+
+
+
+
